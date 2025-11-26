@@ -94,7 +94,7 @@ AWD-H1m 是一款专为 CTF AWD (Attack With Defense) 赛制设计的桌面应�
 ---
 
 ## 后续计划
-自动流量部署探针
+自动部署流量探针
 
 PHP 专属模块，php
 
