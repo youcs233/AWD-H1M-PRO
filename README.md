@@ -19,13 +19,31 @@ AWD-H1m 是一款专为 CTF AWD (Attack With Defense) 赛制设计的桌面应�
 - **一键上马**：支持 MD5 马、不死马、蠕虫马等多种类型的自动化部署
 - **远程命令执行**：通过已植入的 Shell 对目标批量执行系统命令
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Feature Preview](./png/gongji.png)
+
+</div>
+
 ### 🛡️ 防御模块
 - **网站备份与还原**：一键备份 Web 根目录，支持快速回滚
 - **木马查杀**：扫描并定位可疑的一句话木马文件
 - **主机巡检**：自动检测系统安全配置，输出加固建议
 - **权限加固**：设置上传目录只读、加固 PHP 配置、部署简易 WAF
 - **数据库管理**：备份数据库、修改数据库密码
+</td>
+</tr>
+</table>
 
+<div align="center">
+
+![Feature Preview](./png/fangyu.png)
+
+</div>
 ### 🔍 探测模块
 - **主机存活探测**：快速扫描目标 IP 段，发现存活主机
 
@@ -33,6 +51,26 @@ AWD-H1m 是一款专为 CTF AWD (Attack With Defense) 赛制设计的桌面应�
 - **流量捕获与存储**：自动记录比赛期间的网络流量
 - **全文检索**：基于索引的流量内容搜索，快速定位攻击 Payload
 - **流量详情**：查看单条会话的请求与响应内容
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Feature Preview](./png/liuliang.png)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Feature Preview](./png/liuliang2.png)
+
+</div>
+
 
 ### 🚩 Flag 获取
 - **批量 Flag 读取**：从多个靶机自动读取 Flag 文件
@@ -54,6 +92,18 @@ AWD-H1m 是一款专为 CTF AWD (Attack With Defense) 赛制设计的桌面应�
 
 ---
 
+## 后续计划
+自动部署探针
+
+PHP 专属模块，php
+
+Java 专属模块，Java 反编译，打包
+
+添加自定义 Payload
+
+调整防护模块，添加一键布防
+
+
 ## 许可证
 
-本项目为闭源软件，未经授权不得分发或用于商业用途。
+本项目为闭源软件，未经授权不得分发或用于其他用途。
